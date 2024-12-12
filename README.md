@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanuka Amantha</h1>
 <h3 align="center">Undergraduate | BSc (Hons) IT Specialization.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isurukrp&label=Profile%20views&color=0e75b6&style=flat" alt="isurukrp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=4rthurrr&label=Profile%20views&color=blueviolet&style=flat" alt="4rthurrr" /> </p>
 
 - 🔭 I’m currently learning on **SLIIT**
 
