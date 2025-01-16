@@ -58,17 +58,16 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/AmanthaS4S" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/shanuka amantha" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/shanukaaa" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=4rthurrr&show_icons=true&locale=en" alt="4rthurrr" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4rthurrr&" alt="4rthurrr" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=4rthurrr&show_icons=true&locale=en&layout=compact" alt="4rthurrr" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4rthurrr" alt="4rthurrr" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=4rthurrr&show_icons=true&locale=en&theme=algolia" alt="4rthurrr" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=4rthurrr&show_icons=true&locale=en&layout=compact&theme=algolia" alt="4rthurrr" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4rthurrr&theme=algolia" alt="4rthurrr" /></a></p>
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.ko-fi.com/https://ko-fi.com/shanuk4">
